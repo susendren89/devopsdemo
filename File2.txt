@@ -1,0 +1,4 @@
+file2 contentents
+:wq
+:wq
+new content
